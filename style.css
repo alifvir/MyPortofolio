@@ -6,6 +6,8 @@
 
 #Projects {
   background-color: #e6e6e6;
+  overflow: hidden;
+  /* jika ada scrol kekanan dikit maka dapat di hidden menggunakan overflow */
 }
 
 section {
